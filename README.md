@@ -1,3 +1,3 @@
 # frontendik
 
-A new Flutter project.
+Pet project for writing notes
